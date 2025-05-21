@@ -1,0 +1,34 @@
+{
+  "components": [
+    {
+      "name": "product-tile",
+      "container": true,
+      "url": "https://your-cdn.com/your-app/main.js",
+      "selector": "dynamic-wrapper",
+      "inputs": {
+        "componentName": "product-tile",
+        "componentInputs": {}
+      }
+    },
+    {
+      "name": "user-card",
+      "container": true,
+      "url": "https://your-cdn.com/your-app/main.js",
+      "selector": "dynamic-wrapper",
+      "inputs": {
+        "componentName": "user-card",
+        "componentInputs": {}
+      }
+    },
+    {
+      "name": "promotion-banner",
+      "container": true,
+      "url": "https://your-cdn.com/your-app/main.js",
+      "selector": "dynamic-wrapper",
+      "inputs": {
+        "componentName": "promotion-banner",
+        "componentInputs": {}
+      }
+    }
+  ]
+}
